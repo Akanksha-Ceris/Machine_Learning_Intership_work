@@ -1,0 +1,16 @@
+Student_ID,Name,Age,Gender,Study_Hours,Attendance,Previous_Score,Final_Score
+1,Amit,20,Male,3,85,72,78
+2,Priya,21,Female,4,90,80,85
+3,Rahul,,Male,2,75,65,70
+4,Neha,20,Female,5,95,88,92
+5,Arjun,22,Male,3,80,70,76
+6,Simran,21,Female,,88,82,87
+7,Vikas,23,Male,6,92,91,94
+8,Anjali,20,Female,4,85,75,80
+9,Rohit,22,Male,2,70,60,65
+10,Kavya,21,Female,5,96,89,93
+11,Manish,24,Male,3,78,68,72
+12,Pooja,20,Female,4,89,77,84
+13,Karan,22,Male,7,94,95,97
+14,Isha,21,Female,3,83,74,79
+15,Suresh,23,Male,2,72,63,68
