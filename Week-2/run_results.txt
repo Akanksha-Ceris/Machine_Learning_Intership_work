@@ -1,0 +1,49 @@
+\n=== CLASSIFICATION: IRIS DATASET ===
+\nLogistic Regression
+  Accuracy: 0.9333
+  Precision (macro): 0.9333
+  Recall (macro): 0.9333
+  F1-score (macro): 0.9333
+  Confusion matrix:
+[[10  0  0]
+ [ 0  9  1]
+ [ 0  1  9]]
+\nDecision Tree
+  Accuracy: 0.9333
+  Precision (macro): 0.9333
+  Recall (macro): 0.9333
+  F1-score (macro): 0.9333
+  Confusion matrix:
+[[10  0  0]
+ [ 0  9  1]
+ [ 0  1  9]]
+\nRandom Forest
+  Accuracy: 0.9000
+  Precision (macro): 0.9024
+  Recall (macro): 0.9000
+  F1-score (macro): 0.8997
+  Confusion matrix:
+[[10  0  0]
+ [ 0  9  1]
+ [ 0  2  8]]
+\nK-Nearest Neighbors
+  Accuracy: 0.9333
+  Precision (macro): 0.9444
+  Recall (macro): 0.9333
+  F1-score (macro): 0.9327
+  Confusion matrix:
+[[10  0  0]
+ [ 0 10  0]
+ [ 0  2  8]]
+\nClassification comparison:
+              Model  Accuracy  Precision (macro)  Recall (macro)  F1-score (macro)
+Logistic Regression    0.9333             0.9333          0.9333            0.9333
+      Decision Tree    0.9333             0.9333          0.9333            0.9333
+K-Nearest Neighbors    0.9333             0.9444          0.9333            0.9327
+      Random Forest    0.9000             0.9024          0.9000            0.8997
+\n=== REGRESSION: DIABETES DATASET ===
+Model: Linear Regression
+  MAE: 42.7941
+  RMSE: 53.8534
+  R² score: 0.4526
+\nDone. Use these measured results in your report.
